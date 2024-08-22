@@ -1,7 +1,9 @@
 # pyweather
 
-API: openweather
-Python Version
+`Python Version`
+
+`API: openweather`
+
 
 # HOW TO RUN???
 
