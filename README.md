@@ -1,5 +1,8 @@
 # pyweather
 
+API: openweather
+Python Version
+
 # HOW TO RUN???
 
 1. git clone https://github.com/YuriKun11/pyweather.git
